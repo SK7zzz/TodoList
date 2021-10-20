@@ -1,0 +1,18 @@
+.Icon-container {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 48px;
+    width: 48px;
+}
+
+.Icon-container--check{
+    position: absolute;
+    left: 10px;
+}
+
+.Icon-container--delete{
+    position: absolute;
+    right: 0px;
+}
